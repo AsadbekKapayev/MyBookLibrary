@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BookHub</string>
+    <string name="all_books">All books</string>
+    <string name="my_rented_books">Rented books</string>
+    <string name="navigation_drawer">Menu</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="all_books_fragment">All book Fragment</string>
+    <string name="rented_books_fragment">Rented books Fragment</string>
+    <string name="rent_the_book">Rent the book</string>
+    <string name="return_the_book">Return the book</string>
+</resources>
